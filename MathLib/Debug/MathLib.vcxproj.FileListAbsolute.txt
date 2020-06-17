@@ -1,0 +1,2 @@
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC195\CSC195\Debug\MathLib.pdb
+C:\Users\RMaple\OneDrive - Neumont College of Computer Science\Dev\CSC195\CSC195\MathLib\Debug\MathLib.pdb
